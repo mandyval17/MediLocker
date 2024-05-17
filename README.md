@@ -1,3 +1,14 @@
+# MediLocker
+
+Welcome to the Medilocker repository!
+
+## Branches
+
+This repository contains two main branches:
+
+1. **main**: This branch contains the frontend code of the project.
+2. **backend**: This branch contains the backend code of the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
