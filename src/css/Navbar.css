@@ -1,0 +1,23 @@
+ .nav-item:hover{
+    text-decoration: underline;
+    text-underline-offset :5px;
+    text-decoration-color: rgba(34, 34, 198, 0.452);
+    /* text-underline-position: above; */
+}
+.navbar{
+    /* background-color: rgb(250,247,233); */
+}
+.collapse .mid{
+    padding-left: 100px;
+}
+.collapse .mid .nav-item{
+    /* padding-inline: 40px; */
+}
+.navbar-nav .nav-item .btn:hover{
+    border-width: 1.5px;
+    border-radius: 20px;
+    background-color: rgb(77, 77, 255);
+    /* transition-duration: 2s; */
+    color: white;
+}
+

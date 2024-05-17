@@ -1,0 +1,37 @@
+.img3{
+    /* background-color: red; */
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+.left{
+    /* height: 25rem; */
+    width: 25%;
+}
+.right{
+    padding-top: 110px;
+    width: 50%;
+}
+.right .row .col h3{
+    color:#fe3f3f;
+    font-size: 15px;
+}
+.right .row .col h2{
+    font-size: 40px;
+}
+.but{
+    /* background-color: black; */
+    width: 75%;
+    
+    /* padding-left: 100px; */
+    box-sizing: border-box;
+    /* width: 50%; */
+    /* padding-left:px ; */
+}
+.btn{
+    border-radius: 20px;
+    background-color: #2379F9;
+    color: white;
+}
+.right .row{
+    /* margin: 15px; */
+}
